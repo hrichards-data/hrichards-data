@@ -10,7 +10,7 @@
 ## Work Experience
 **Data Entry @ ChloLay Ltd (_Jan 2022 - June 2022_)**
 - worked within a remote data entry team, gathering, collecting and organising data to a deadline.
-- worked mainly using **Microsoft Excel** and the popular CRM software **Hubspot**.
+- worked mainly using `Microsoft Excel` and the popular CRM software `Hubspot`.
 
 **Supermarket Seasonal Employee @ Marks & Spencer (_Nov 2021 - Dec 2021_)**
 - working in a fast paced, customer facing environment.
